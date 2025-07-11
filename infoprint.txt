@@ -1,0 +1,2 @@
+Ver relatório com logo: http://localhost:5000/api/vendas/data?format=html
+Ver dados JSON: http://localhost:5000/api/vendas/data

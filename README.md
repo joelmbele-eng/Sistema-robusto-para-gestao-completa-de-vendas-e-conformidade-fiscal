@@ -42,6 +42,9 @@ Relatórios de Vendas: Relatórios detalhados em PDF com totalizadores
 Comprovantes de Cancelamento: Documentos específicos para vendas canceladas
 
 Ficheiros SAF-T: Geração de arquivos XML para conformidade fiscal
+# Usando API com Flask para verificar relatorio de vendas 
+
+![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/4e9ef890f7f47ce603e7529e9a4313d4c2a8934f/7.PNG)
 
 🏢 Gestão Empresarial
 
@@ -87,3 +90,5 @@ Estrutura do Projeto
     ├── mgrace.ico
     ├── xx.png
     └── logg.png
+    
+# Dev : Joel Mbele Makengo Pais : Angola - Luanda Tel - Whatsapp : +244 942 688 960

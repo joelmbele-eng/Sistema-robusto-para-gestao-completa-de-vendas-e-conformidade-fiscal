@@ -19,7 +19,7 @@ Interface de login com design moderno
 Criação automática de usuário administrador padrão
 Controle de permissões por tipo de usuário
 Gestão de status de usuários (ativo/inativo)
-
+![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/6f637e5619150603d75ee2bff8cbf875fc34cef9/2.PNG)
 📊 Funcionalidades de Vendas
 
 Sistema completo de ponto de venda

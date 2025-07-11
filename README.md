@@ -32,7 +32,8 @@ Diferentes formas de pagamento
 
 Controle de operadores de caixa
 
-📄 Geração de Documentos
+# Geração de Documentos
+![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/8a976a73c5e1930a44f2acfe2459de6f80facc77/6.PNG)
 
 Faturas em PDF: Geração automática com informações da empresa e cálculo de IVA
 

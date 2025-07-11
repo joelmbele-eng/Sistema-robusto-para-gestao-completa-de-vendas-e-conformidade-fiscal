@@ -7,23 +7,24 @@ Sistema de Gestão de Vendas e Ponto de Venda
 # Descrição
 Sistema completo de gestão de vendas e ponto de venda (PDV) desenvolvido em Python com interface gráfica moderna. O sistema oferece funcionalidades completas para controle de vendas, gestão de produtos, usuários e geração de relatórios fiscais.
 
-#Funcionalidades Principais
+# Funcionalidades Principais
 
 🔐 Sistema de Autenticação
 Login seguro com diferentes níveis de acesso (Admin/Usuário)
 Controle de usuários ativos/inativos
 Interface de login com design moderno
 
-👥 #Gestão de Usuários
+ # Gestão de Usuários
 
 Criação automática de usuário administrador padrão
 Controle de permissões por tipo de usuário
 Gestão de status de usuários (ativo/inativo)
 ![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/6f637e5619150603d75ee2bff8cbf875fc34cef9/2.PNG)
-📊 Funcionalidades de Vendas
+ # Funcionalidades de Vendas
 ![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/aa87f380bcf6acfbf713960f549a4935869809f9/3.PNG)
 
-Sistema completo de ponto de venda
+# Sistema completo de ponto de venda
+![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/c404f782dac1a6bcf5dfc6d6879ff8694f2d929a/5.PNG)
 
 Registro detalhado de transações
 

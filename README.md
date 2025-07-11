@@ -1,4 +1,5 @@
 <!-- Uploading "1.PNG"... -->
+![image alt](https://github.com/joelmbele-eng/Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal/blob/5b791d007da5213b5627170b58667b81b8b728ea/1.PNG)
 # Sistema-robusto-para-gestao-completa-de-vendas-e-conformidade-fiscal
 Sistema completo de gestão de vendas e ponto de venda (PDV) desenvolvido em Python com interface gráfica moderna. O sistema oferece funcionalidades completas para controle de vendas, gestão de produtos, usuários e geração de relatórios fiscais.
 
